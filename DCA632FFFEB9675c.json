@@ -1,0 +1,21 @@
+{ 
+	
+	"gateway_conf": {
+	"gateway_ID":DCA632FFFEB9675c",
+	"servers": [
+	{
+	"server_address": "router.us.thethings.network", 
+	"serv_port_up": 1700, 
+	"serv_port_down": 1700, 
+	"serv_enabled": true
+	}
+], 
+	
+	"fake_gps": true, 
+	"ref_latitude": 37.69118,
+	"ref_longitude": -97.41984,
+	"ref_altitude": 25,
+	"contact_email": "omarismailg6@gmail.com"
+
+	}
+}
